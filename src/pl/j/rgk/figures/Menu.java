@@ -1,4 +1,4 @@
-package pola_i_obwody;
+package pl.j.rgk.figures;
 
 import java.util.Scanner;
 

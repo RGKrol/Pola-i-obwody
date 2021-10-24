@@ -1,10 +1,10 @@
 // klasa Prostokąt
 
-package pola_i_obwody;
+package pl.j.rgk.figures;
 
 import java.util.Scanner;
 
-public class Rectangle extends Figure{
+public class Rectangle extends Figure {
     Rectangle(){
       this.name = "Prostokąt";
     }

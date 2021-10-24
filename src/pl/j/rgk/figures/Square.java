@@ -1,14 +1,14 @@
 // klasa kwadrat
 
-package pola_i_obwody;
+package pl.j.rgk.figures;
 
 import java.util.Scanner;
 
-public class Square extends Rectangle{
+public class Square extends Rectangle {
     Square(){
         this.name = "Kwadrat";
     }
-    //------------- Area Counting ---------------------
+    //------------- Area Counting ----------------
     public void areaCountingMethods(){
         System.out.println("1 - P = a^2,        gdzie a to długość boku kwadratu.");
         System.out.println("2 - P = 1/2 * d^2,  gdzie d to długość przekątnej kwadratu.");

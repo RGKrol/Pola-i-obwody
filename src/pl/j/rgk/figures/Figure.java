@@ -1,6 +1,6 @@
 // klasa Figura - główna klasa "rodzic", klasa nadrzędna
 
-package pola_i_obwody;
+package pl.j.rgk.figures;
 
 public class Figure {
     public String name;
